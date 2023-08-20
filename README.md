@@ -16,17 +16,18 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
-    <a href="https://cdn-icons-png.flaticon.com/512/732/732212.png" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="icon1" width="40" height="40"/>
-    </a>
-    <a href="https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg" target="_blank" rel="noreferrer">
-        <img src="https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg" alt="icon2" width="40" height="40"/>
-    </a>
-    <a href="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="icon3" width="40" height="40"/>
-    </a>
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="icon1" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="icon2" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="icon3" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png" alt="icon4" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" alt="icon5" width="40" height="40"/>
+  <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" alt="icon6" width="40" height="40"/>
+  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="icon7" width="40" height="40"/>
+  <img src="https://w7.pngwing.com/pngs/18/497/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage.png" alt="icon8" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="icon9" width="40" height="40"/>
 </p>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmank7&show_icons=true&locale=en" alt="usmank7" /></p>
