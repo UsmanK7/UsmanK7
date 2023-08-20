@@ -17,17 +17,18 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="icon1" width="40" height="40"/>
-  <img src="https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg" alt="icon2" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="icon3" width="40" height="40"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png" alt="icon4" width="40" height="40"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" alt="icon5" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" alt="icon6" width="40" height="40"/>
-  <img src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" alt="icon7" width="40" height="40"/>
-  <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" alt="icon8" width="40" height="40"/>
-  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="icon9" width="40" height="40"/>
-  <img src="https://w7.pngwing.com/pngs/18/497/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage.png" alt="icon10" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="icon11" width="40" height="40"/>
+ <p align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Icon 1" width="40" height="40"/>
+    <img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png" alt="Icon 2" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Icon 3" width="40" height="40"/>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png" alt="Icon 4" width="40" height="40"/>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" alt="Icon 5" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" alt="Icon 6" width="40" height="40"/>
+    <img src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" alt="Icon 7" width="40" height="40"/>
+    <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" alt="Icon 8" width="40" height="40"/>
+    <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Icon 9" width="40" height="40"/>
+    <img src="https://w7.pngwing.com/pngs/18/497/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage.png" alt="Icon 10" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Icon 11" width="40" height="40"/>
 </p>
 
 
