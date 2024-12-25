@@ -8,10 +8,10 @@
 ## 🧑‍💻 **About Me**
 
 🎓 A passionate **Final Year Computer Science Student**  
-🔭 **Building**: [NeuroInsight](https://github.com/UsmanK7/NeuroInsight)  
-💬 **Ask me about**: AI, Data Science, Deep Learning, Machine Learning, Python, Healthcare, Web Development  
-🌱 **Currently Learning**: Advanced AI, Model Optimization, Deployment
-⚽ Playing **Football** in my spare time  
+🔭 **Currently Building**: [Neuro-Insight](https://github.com/UsmanK7/NeuroInsight) <br>
+💬 **Ask me about**: AI, Data Science, Deep Learning, Machine Learning, Python, Healthcare  <br>
+🌱 **Currently Learning**: Advanced AI, Machine learning, Deployment  
+⚽ Enjoying **Football** in my spare time  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## 🚀 Technologies
@@ -56,8 +56,6 @@ An AI-powered web application for **brain tumor detection, segmentation, and cla
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 📊 GitHub Stats
-
-![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UsmanK7&show_icons=true&theme=radical)
 
 ![Usman's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=UsmanK7)
 
