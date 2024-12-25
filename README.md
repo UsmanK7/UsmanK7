@@ -8,7 +8,7 @@
 ## 🧑‍💻 **About Me**
 
 🎓 A passionate **Final Year Computer Science Student**  
-🔭 **Currently Building**: [Neuro-Insight](https://github.com/UsmanK7/NeuroInsight) <br>
+🔭 **Currently Building**: [Neuro-Insight](https://github.com/UsmanK7/Neuro-Insight) <br>
 💬 **Ask me about**: AI, Data Science, Deep Learning, Machine Learning, Python, Healthcare  <br>
 🌱 **Currently Learning**: Advanced AI, Machine learning, Deployment  
 ⚽ Enjoying **Football** in my spare time  
