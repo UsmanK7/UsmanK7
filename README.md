@@ -5,12 +5,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;I+am+a+Fresh+Computer-Science+Graduate,;A+Data+Science+Enthusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-<br>
-
-	
 ## 🧑‍💻 **About Me**
 
-<br><br>
 🎓 A passionate **Final Year Computer Science Student**  
 🔭 **Building**: [NeuroInsight](https://github.com/UsmanK7/NeuroInsight)  
 💬 **Ask me about**: AI, Data Science, Deep Learning, Machine Learning, Python, Healthcare, Web Development  
@@ -18,9 +14,7 @@
 ⚽ Playing **Football** in my spare time  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 ## 🚀 Technologies
-
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
