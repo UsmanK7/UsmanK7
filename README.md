@@ -64,5 +64,5 @@ An AI-powered web application for **brain tumor detection, segmentation, and cla
 ## 📬 Let's Connect!
 
 - 📧 **Email**: musmankhan707@gmail.com
-- 🌍 **Website**: [yourwebsite.com](https://www.yourwebsite.com)
-- 📘 **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+- 🌍 **Website**: [coming-soon](https://www.yourwebsite.com)
+- 📘 **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/usmank7/)
