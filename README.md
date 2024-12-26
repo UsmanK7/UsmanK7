@@ -44,7 +44,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UsmanK7&show_icons=true&theme=dark)
+
 ## 🌟 Projects
 
 ### [NeuroInsight](https://github.com/UsmanK7/NeuroInsight)
@@ -56,8 +56,8 @@ An AI-powered web application for **brain tumor detection, segmentation, and cla
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 📊 GitHub Stats
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=UsmanK7&theme=dark)
 
-![Usman's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=UsmanK7)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
