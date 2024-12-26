@@ -44,7 +44,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UsmanK7&show_icons=true&theme=dark)
 ## 🌟 Projects
 
 ### [NeuroInsight](https://github.com/UsmanK7/NeuroInsight)
