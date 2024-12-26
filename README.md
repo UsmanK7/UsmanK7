@@ -47,7 +47,7 @@
 
 ## 🌟 Projects
 
-### [NeuroInsight](https://github.com/UsmanK7/NeuroInsight)
+### [NeuroInsight](https://github.com/UsmanK7/Neuro-Insight)
 An AI-powered web application for **brain tumor detection, segmentation, and classification** using deep learning models like **U-Net**. This project helps automate the medical imaging process, making brain cancer diagnosis faster and more accurate.
 
 - **Tech Stack**: Python, TensorFlow, Keras, OpenCV, Flask, HTML/CSS, JavaScript
