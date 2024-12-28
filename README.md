@@ -42,18 +42,20 @@ An AI-powered web application for **brain tumor detection, segmentation, and cla
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 📊 GitHub Stats
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=UsmanK7&theme=dark)
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 📬 Let's Connect!
-<a href="https://leetcode.com/u/usmank7/" style="margin-right: 10px;">
-  <img src="https://upload.vectorlogo.zone/logos/leetcode/images/87a6ef2b-56e7-42de-b43f-d9db8e40734e.svg" alt="Usman Khan | LeetCode" width="40px">
+[![Languages](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/usmank7/)
+<a href="https://leetcode.com/u/usmank7/">
+  <img align="left" alt="M Safiullah Khan | LeetCode" width="40px" src="https://upload.vectorlogo.zone/logos/leetcode/images/87a6ef2b-56e7-42de-b43f-d9db8e40734e.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/usmank7/" style="margin-right: 10px;">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Usman Khan | LinkedIn" width="40px">
-</a>
+## 📊 GitHub Stats
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmank7&" alt="GitHub Streak Stats" />
+  <img src="https://leetcard.jacoblin.cool/usmank7" alt="LeetCode Card" style="margin-right: 10px;" />
+</div>
+
+
+
 
