@@ -21,7 +21,7 @@
 [![Languages](https://skillicons.dev/icons?i=cpp,python&theme=light)]([])
 
 **AI & ML**  
-[![Languages](https://skillicons.dev/icons?i=vscode,python,tensorflow,flask&theme=light)]([])
+[![Languages](https://skillicons.dev/icons?i=vscode,tensorflow,flask&theme=light)]([])
 
 **Mobile app Development**  
 [![Languages](https://skillicons.dev/icons?i=flutter,sqlite,firebase&theme=light)]([])
