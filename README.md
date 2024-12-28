@@ -16,32 +16,19 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## 🚀 Technologies
 **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=yellow)
+[![Languages](https://skillicons.dev/icons?i=cpp,python&theme=light)]([])
 
 **AI & ML**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=vscode,python,tensorflow,flask&theme=light)]([])
 
-**Tools & Libraries**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+**Mobile app Development**  
+[![Languages](https://skillicons.dev/icons?i=flutter,sqlite,firebase&theme=light)]([])
 
-**Web Development**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=yellow)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Database**  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+**Frontend Development**  
+[![Languages](https://skillicons.dev/icons?i=figma,html,css,javascript,bootstrap&theme=light)]([])
 
 **Version Control**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=git,github&theme=light)]([])
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -62,7 +49,11 @@ An AI-powered web application for **brain tumor detection, segmentation, and cla
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 📬 Let's Connect!
+<a href="https://leetcode.com/u/usmank7/" style="margin-right: 10px;">
+  <img src="https://upload.vectorlogo.zone/logos/leetcode/images/87a6ef2b-56e7-42de-b43f-d9db8e40734e.svg" alt="Usman Khan | LeetCode" width="40px">
+</a>
 
-- 📧 **Email**: musmankhan707@gmail.com
-- 🌍 **Website**: [coming-soon](https://www.yourwebsite.com)
-- 📘 **LinkedIn**: [link](https://www.linkedin.com/in/usmank7/)
+<a href="https://www.linkedin.com/in/usmank7/" style="margin-right: 10px;">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Usman Khan | LinkedIn" width="40px">
+</a>
+
