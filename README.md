@@ -18,7 +18,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🚀 Technologies
+## 🚀 Skills
 
 <img src="https://skillicons.dev/icons?i=cpp,python,vscode,tensorflow,flask,flutter,sqlite,firebase,figma,html,css,javascript,bootstrap,git,github&theme=light" alt="Technologies" style="margin-right: 15px;"/>
 
