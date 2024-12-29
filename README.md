@@ -17,21 +17,10 @@
 📄 View my resume by clicking [here](https://docs.google.com/document/d/11fzZaaCF7R6b7jgtp1xIuD9xZ_Fz0QCm/edit?usp=sharing&ouid=103215575076143814565&rtpof=true&sd=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 ## 🚀 Technologies
-**Languages**  
-[![Languages](https://skillicons.dev/icons?i=cpp,python&theme=light)]([])
 
-**AI & ML**  
-[![Languages](https://skillicons.dev/icons?i=vscode,tensorflow,flask&theme=light)]([])
-
-**Mobile app Development**  
-[![Languages](https://skillicons.dev/icons?i=flutter,sqlite,firebase&theme=light)]([])
-
-**Frontend Development**  
-[![Languages](https://skillicons.dev/icons?i=figma,html,css,javascript,bootstrap&theme=light)]([])
-
-**Version Control**  
-[![Languages](https://skillicons.dev/icons?i=git,github&theme=light)]([])
+<img src="https://skillicons.dev/icons?i=cpp,python,vscode,tensorflow,flask,flutter,sqlite,firebase,figma,html,css,javascript,bootstrap,git,github&theme=light" alt="Technologies" style="margin-right: 15px;"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
