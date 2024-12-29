@@ -16,7 +16,7 @@
 ⚽ Enjoying **Football** in my spare time  
 📄 View my resume by clicking [here](https://docs.google.com/document/d/11fzZaaCF7R6b7jgtp1xIuD9xZ_Fz0QCm/edit?usp=sharing&ouid=103215575076143814565&rtpof=true&sd=true)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Skills
 
@@ -41,5 +41,5 @@ An AI-powered web application for **brain tumor detection, segmentation, and cla
 ## 📬 Let's Connect!
 [![Languages](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/usmank7/)
 <a href="https://leetcode.com/u/usmank7/">
-  <img align="left" alt="M Safiullah Khan | LeetCode" width="40px" src="https://upload.vectorlogo.zone/logos/leetcode/images/87a6ef2b-56e7-42de-b43f-d9db8e40734e.svg" />
+  <img align="left" alt="Usman khan| LeetCode" width="40px" src="https://upload.vectorlogo.zone/logos/leetcode/images/87a6ef2b-56e7-42de-b43f-d9db8e40734e.svg" />
 </a>
