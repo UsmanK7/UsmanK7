@@ -12,7 +12,7 @@
 🎓 A passionate **Final Year Computer Science Student**  
 🔭 **Currently Building**: [Neuro-Insight](https://github.com/UsmanK7/Neuro-Insight) <br>
 💬 **Ask me about**: AI, Data Science, Deep Learning, Machine Learning, Python, Healthcare  <br>
-🌱 **Currently Learning**: Advanced AI, Machine learning, Deployment  
+🌱 **Currently Learning**: Advanced AI, Backend Development, Deployment  
 ⚽ Enjoying **Football** in my spare time  
 📄 View my resume by clicking [here](https://docs.google.com/document/d/11fzZaaCF7R6b7jgtp1xIuD9xZ_Fz0QCm/edit?usp=sharing&ouid=103215575076143814565&rtpof=true&sd=true)
 
