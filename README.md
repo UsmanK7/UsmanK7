@@ -1,45 +1,32 @@
 
+<h1>Hi, I'm Usman! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br/> <a href="https://www.linkedin.com/in/usmank7/">Data Scientist</a></h1>
 
-<h1 align="center"><b>Hi , I'm Usman khan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h2>👩‍💻 Projects</h2>
 
+- <b>Machine Learning</b>
+  - [Final Year Project: NeuroInsight –End-to-End project for Neuroimaging Analysis)](https://github.com/UsmanK7/Neuro-Insight)
+  - [UCI Heart disease prediction](https://github.com/UsmanK7/Cardio-Predict)
+- <b>Flutter</b>
+  - [Expense tracker and Budget planner using Flutter and SQlite](https://github.com/UsmanK7/expense_tracker_budget)
+  - [Quiz-taking app using Flutter and shared preference](https://github.com/UsmanK7/quiz_app_flutter) 
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;I+am+a+Fresh+Computer-Science+Graduate,;A+Data+Science+Enthusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
+<h2>📺 Certifications</h2>
 
-## 🧑‍💻 **About Me**
+- [Google Advanced Data analytics](https://www.coursera.org/account/accomplishments/specialization/3RWO1A39NPL6)
 
-🎓 A passionate **Final Year Computer Science Student**  
-🔭 **Currently Building**: [Neuro-Insight](https://github.com/UsmanK7/Neuro-Insight) <br>
-💬 **Ask me about**: AI, Data Science, Deep Learning, Machine Learning, Python, Healthcare  <br>
-🌱 **Currently Learning**: Advanced AI, Backend Development, Deployment  
-⚽ Enjoying **Football** in my spare time  
-📄 View my resume by clicking [here](https://docs.google.com/document/d/11fzZaaCF7R6b7jgtp1xIuD9xZ_Fz0QCm/edit?usp=sharing&ouid=103215575076143814565&rtpof=true&sd=true)
+<h2> :book: About me</h2>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- 🌱 I’m currently learning about backend development.
+- 👯 I’m looking to collaborate on Open Source projects and participate in CTFs.
 
-## 🚀 Skills
+<h2> 🤳 Connect with me</h2>
 
-<img src="https://skillicons.dev/icons?i=cpp,python,vscode,tensorflow,flask,flutter,sqlite,firebase,figma,html,css,javascript,bootstrap,git,github&theme=light" alt="Technologies" style="margin-right: 15px;"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## 🌟 Projects
-
-### [NeuroInsight](https://github.com/UsmanK7/Neuro-Insight)
-An AI-powered web application for **brain tumor detection, segmentation, and classification** using deep learning models like **U-Net**. This project helps automate the medical imaging process, making brain cancer diagnosis faster and more accurate.
-
-- **Tech Stack**: Python, TensorFlow, Keras, OpenCV, Flask, HTML/CSS, JavaScript
-- **Main Tasks**: Detection, Segmentation, Classification of Brain Tumors
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## 📊 GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=usmank7&theme=dark" alt="GitHub Streak Stats" />
+[<img target="_blank" alt="Paula Boyano | Mail" width="120px" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
+[<img target="_blank" alt="Paula Boyano | LinkedIn" width="140px" height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img target="_blank" alt="LeetCode" width="140px" height="40" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />][leetcode]
 
 
-## 📬 Let's Connect!
-[![Languages](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/usmank7/)
-<a href="https://leetcode.com/u/usmank7/">
-  <img align="left" alt="Usman khan| LeetCode" width="40px" src="https://upload.vectorlogo.zone/logos/leetcode/images/87a6ef2b-56e7-42de-b43f-d9db8e40734e.svg" />
-</a>
+[mail]: mailto:musmankhan707@gmail.com
+[linkedin]: https://www.linkedin.com/in/usmank7/
+[leetcode]: https://leetcode.com/u/usmank7/
+
