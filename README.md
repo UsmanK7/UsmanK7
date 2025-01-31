@@ -12,7 +12,7 @@
 
 <h2>📺 Certifications</h2>
 
-- [Google Advanced Data analytics](https://www.coursera.org/account/accomplishments/specialization/3RWO1A39NPL6)
+- [Google Advanced Data analytics certification](https://www.coursera.org/account/accomplishments/specialization/3RWO1A39NPL6)
 
 <h2> :book: About me</h2>
 
