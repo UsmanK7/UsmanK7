@@ -4,7 +4,7 @@
 <h2>👩‍💻 Projects</h2>
 
 - <b>Machine Learning</b>
-  - [Final Year Project: NeuroInsight –End-to-End project for Neuroimaging Analysis)](https://github.com/UsmanK7/Neuro-Insight)
+  - [Final Year Project: NeuroInsight –End-to-End project for Neuroimaging Analysis](https://github.com/UsmanK7/Neuro-Insight)
   - [UCI Heart disease prediction](https://github.com/UsmanK7/Cardio-Predict)
 - <b>Flutter</b>
   - [Expense tracker and Budget planner using Flutter and SQlite](https://github.com/UsmanK7/expense_tracker_budget)
@@ -21,8 +21,8 @@
 
 <h2> 🤳 Connect with me</h2>
 
-[<img target="_blank" alt="Paula Boyano | Mail" width="120px" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
-[<img target="_blank" alt="Paula Boyano | LinkedIn" width="140px" height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img target="_blank" alt="Usman khan| Mail" width="120px" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
+[<img target="_blank" alt="Usman khan | LinkedIn" width="140px" height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img target="_blank" alt="LeetCode" width="140px" height="40" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />][leetcode]
 
 
