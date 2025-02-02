@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Usman! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br/> <a href="https://www.linkedin.com/in/usmank7/">Data Scientist</a></h1>
+<h1>Hi, I'm Usman! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br/> <a href="https://www.linkedin.com/in/usmank7/">Computer Scientist</a></h1>
 
 <h2>👩‍💻 Projects</h2>
 
