@@ -1,12 +1,12 @@
 
 <h1>Hi, I'm Usman! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br/> <a href="https://www.linkedin.com/in/usmank7/">Data Scientist</a></h1>
 
-<h2>👩‍💻 Projects</h2>
+<h2>👩‍💻 Personal Projects</h2>
 
 - <b>Machine Learning</b>
   - [Final Year Project: NeuroInsight –End-to-End project for Neuroimaging Analysis](https://github.com/UsmanK7/Neuro-Insight)
   - [UCI Heart disease prediction](https://github.com/UsmanK7/Cardio-Predict)
-- <b>Flutter</b>
+- <b>Mobile apps</b>
   - [Expense tracker and Budget planner using Flutter and SQlite](https://github.com/UsmanK7/expense_tracker_budget)
   - [Quiz-taking app using Flutter and shared preference](https://github.com/UsmanK7/quiz_app_flutter) 
 
