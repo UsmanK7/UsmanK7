@@ -11,10 +11,10 @@
 </div>
 
 ---
+<h1>[Final Year Project: NeuroInsight –End-to-End project for Neuroimaging Analysis](https://github.com/UsmanK7/Neuro-Insight) </h1>
 <h2>👩‍💻 Personal Projects</h2>
 
 - <b>Machine Learning / AI</b>
-  - [NeuroInsight – End-to-End AI project for Brain Tumor Detection, Segmentation & Classification](https://github.com/UsmanK7/Neuro-Insight)
   - [UCI Heart Disease Prediction using ML Models](https://github.com/UsmanK7/Cardio-Predict)
   - [Bone Fracture Detection with Deep Learning – Stanford MURA Dataset](https://github.com/UsmanK7/Brain-fracture-detection)
 
@@ -25,7 +25,7 @@
   - [COVID Tracker App with Real-Time Data Visualization (Academic)](https://github.com/UsmanK7/Covid_Tracker) <!-- Create repo if missing -->
 
 - <b>Desktop / Console Applications</b>
-  - [ATM Machine – OOP Based Project in Java]https://github.com/UsmanK7/ATM-Machine) <!-- Create repo if missing -->
+  - [ATM Machine – OOP Based Project in Java](https://github.com/UsmanK7/ATM-Machine) <!-- Create repo if missing -->
   - [Tic Tac Toe in Assembly Language – 2 Player](https://github.com/UsmanK7/TicTacToe-Assembly) <!-- Create repo if missing -->
 
 <h2>🏆 Achievements</h2>
