@@ -11,10 +11,11 @@
 </div>
 
 ---
-<h1>[Final Year Project: NeuroInsight –End-to-End project for Neuroimaging Analysis](https://github.com/UsmanK7/Neuro-Insight) </h1>
+
 <h2>👩‍💻 Personal Projects</h2>
 
 - <b>Machine Learning / AI</b>
+  - [Final Year Project: NeuroInsight –End-to-End project for Neuroimaging Analysis](https://github.com/UsmanK7/Neuro-Insight)
   - [UCI Heart Disease Prediction using ML Models](https://github.com/UsmanK7/Cardio-Predict)
   - [Bone Fracture Detection with Deep Learning – Stanford MURA Dataset](https://github.com/UsmanK7/Brain-fracture-detection)
 
