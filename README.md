@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=USMAN%20KHAN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20•%20Mobile%20App%20Developer%20•%2010K+%20Downloads%20on%20Playstore&descAlignY=55&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=USMAN%20KHAN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Enthusiast%20•%20Mobile%20App%20Developer%20•%2010K+%20+%20Downloads%20on%20Playstore&descAlignY=55&descSize=16)
 
 </div>
 
