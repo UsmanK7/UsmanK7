@@ -13,29 +13,44 @@
 ---
 <h2>👩‍💻 Personal Projects</h2>
 
-- <b>Machine Learning</b>
-  - [Final Year Project: NeuroInsight –End-to-End project for Neuroimaging Analysis](https://github.com/UsmanK7/Neuro-Insight)
-  - [UCI Heart disease prediction](https://github.com/UsmanK7/Cardio-Predict)
-- <b>Mobile apps</b>
-  - [Expense tracker and Budget planner using Flutter and SQlite](https://github.com/UsmanK7/expense_tracker_budget)
-  - [Quiz-taking app using Flutter and shared preference](https://github.com/UsmanK7/quiz_app_flutter) 
+- <b>Machine Learning / AI</b>
+  - [NeuroInsight – End-to-End AI project for Brain Tumor Detection, Segmentation & Classification](https://github.com/UsmanK7/Neuro-Insight)
+  - [UCI Heart Disease Prediction using ML Models](https://github.com/UsmanK7/Cardio-Predict)
+  - [Bone Fracture Detection with Deep Learning – Stanford MURA Dataset](https://github.com/UsmanK7/Brain-fracture-detection)
+
+- <b>Mobile Apps</b>
+  - [Home Workout Fitness App (10K+ Downloads on Play Store)](https://play.google.com/store/apps/details?id=com.homeworkout.body.fitvategain)
+  - [Expense Tracker & Budget Planner – Flutter + SQLite](https://github.com/UsmanK7/expense_tracker_budget)
+  - [Quiz App using Flutter + SharedPreferences](https://github.com/UsmanK7/quiz_app_flutter)
+  - [COVID Tracker App with Real-Time Data Visualization (Academic)](https://github.com/UsmanK7/Covid_Tracker) <!-- Create repo if missing -->
+
+- <b>Desktop / Console Applications</b>
+  - [ATM Machine – OOP Based Project in Java]https://github.com/UsmanK7/ATM-Machine) <!-- Create repo if missing -->
+  - [Tic Tac Toe in Assembly Language – 2 Player](https://github.com/UsmanK7/TicTacToe-Assembly) <!-- Create repo if missing -->
+
+<h2>🏆 Achievements</h2>
+
+- 🥇 **Speed Programming Champion – Next Vagananza 2024**  
+  [View Certificate](https://raw.githubusercontent.com/UsmanK7/UsmanK7/refs/heads/main/coding_competition_win_certifcate.jpg)
 
 <h2>📺 Certifications</h2>
 
-- [Google Advanced Data analytics certification](https://www.coursera.org/account/accomplishments/specialization/3RWO1A39NPL6)
+- [Google Advanced Data Analytics – Coursera](https://www.coursera.org/account/accomplishments/specialization/3RWO1A39NPL6)
+- [GitHub Foundations – Proctored Exam Certified (Basic–Intermediate)](https://www.credly.com/badges/70d00156-80b2-4952-914c-9d2d18a99eef/public_url)
 
-<h2> :book: About me</h2>
+<h2>📚 About Me</h2>
 
-- 🌱 I’m currently learning about backend development.
-- 👯 I’m looking to collaborate on Open Source projects and participate in CTFs.
+- 💻 Versatile Computer Science graduate with a passion for Machine Learning, Deep Learning, and Mobile App Development.
+- 🌱 Currently learning backend development and advanced AI concepts.
+- 👯 Actively seeking opportunities to collaborate on open source and real-world AI/ML projects.
+- 🎯 Experienced with building production-grade mobile apps and AI models for healthcare.
 
-<h2> 🤳 Connect with me</h2>
+<h2>🤳 Connect with Me</h2>
 
-[<img target="_blank" alt="Usman khan| Mail" width="120px" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
-[<img target="_blank" alt="Usman khan | LinkedIn" width="140px" height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img target="_blank" alt="LeetCode" width="140px" height="40" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />][leetcode]
+[<img target="_blank" alt="Gmail" width="120px" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]  
+[<img target="_blank" alt="LinkedIn" width="140px" height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]  
+[<img target="_blank" alt="LeetCode" width="140px" height="40" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />][leetcode]  
 
-
-[mail]: mailto:musmankhan707@gmail.com
-[linkedin]: https://www.linkedin.com/in/usmank7/
-[leetcode]: https://leetcode.com/u/usmank7/
+[mail]: mailto:musmankhan707@gmail.com  
+[linkedin]: https://www.linkedin.com/in/usmank7/  
+[leetcode]: https://leetcode.com/u/usmank7/  
