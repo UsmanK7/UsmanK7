@@ -45,12 +45,14 @@
 - 👯 Actively seeking opportunities to collaborate on open source and real-world AI/ML projects.
 - 🎯 Experienced with building production-grade mobile apps and AI models for healthcare.
 
-<h2>🤳 Connect with Me</h2>
+<h2> 🤳 Connect with me</h2>
 
-[<img target="_blank" alt="Gmail" width="120px" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]  
-[<img target="_blank" alt="LinkedIn" width="140px" height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]  
-[<img target="_blank" alt="LeetCode" width="140px" height="40" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />][leetcode]  
+[<img target="_blank" alt="Usman khan| Mail" width="120px" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
+[<img target="_blank" alt="Usman khan | LinkedIn" width="140px" height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img target="_blank" alt="LeetCode" width="140px" height="40" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />][leetcode]
 
-[mail]: mailto:musmankhan707@gmail.com  
-[linkedin]: https://www.linkedin.com/in/usmank7/  
-[leetcode]: https://leetcode.com/u/usmank7/  
+
+[mail]: mailto:musmankhan707@gmail.com
+[linkedin]: https://www.linkedin.com/in/usmank7/
+[leetcode]: https://leetcode.com/u/usmank7/
+
