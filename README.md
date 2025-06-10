@@ -1,132 +1,143 @@
-# Hi, I'm Muhammad Usman Khan! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<div align="center">
 
-### 🚀 Computer Science Graduate | AI/ML Engineer | Mobile App Developer
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=USMAN%20KHAN&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20•%20Mobile%20Developer%20•%2010K+%20Downloads&descAlignY=55&descSize=18)
 
-Versatile Computer Science graduate with expertise in **Python**, **Machine Learning**, **Deep Learning**, **Flutter**, and **Django**. Developed mobile apps with **10K+ downloads** on Play Store. Passionate about building innovative AI-powered solutions and scalable applications.
+</div>
 
-📍 **Location:** Islamabad, Pakistan  
-🎓 **Education:** BS Computer Science, University of Mianwali (3.31/4.00 GPA)  
-🏆 **Achievement:** Speed Programming Champion - Next Vaganiza 2024
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Building+AI+Solutions+%F0%9F%A7%A0;Mobile+Apps+Developer+%F0%9F%93%B1;10K%2B+App+Downloads+%F0%9F%9A%80;Speed+Programming+Champion+%F0%9F%8F%86)](https://git.io/typing-svg)
 
-## 🔥 Featured Projects
-
-### 🧠 [NeuroInsight - AI Brain Cancer Diagnosis System](https://github.com/UsmanK7/Neuro-Insight)
-**Final Year Project | End-to-End AI Solution**
-- Built an AI-powered cancer analysis app for automated glioma brain cancer diagnosis
-- **Attention-UNet** for tumor segmentation + **ConvNeXt** for grade classification
-- **98.66% accuracy** with 0.9920 F1-Score for classification
-- **99.3% accuracy** with 0.9947 Dice Score for segmentation
-- Full-stack Django web application for doctors
-- **Tech:** Python, TensorFlow, Keras, OpenCV, Django, Bootstrap, SQLite
-
-### 🦴 [Bone Fracture Detection System](https://github.com/UsmanK7/Bone-fracture-detection)
-**Deep Learning | Medical Imaging**
-- Deep learning model for automated bone fracture detection from X-ray images
-- Trained on Stanford MURA dataset using **ResNet-50**
-- Achieved **72.66% accuracy** with enhanced diagnostic precision
-- **Tech:** Python, TensorFlow, ResNet-50, Medical Imaging
-
-### 💪 [Home Workout for Men's Fitness](https://play.google.com/store/apps/details?id=com.homeworkout.body.fitvategain)
-**📱 Published App | 10K+ Downloads**
-- Comprehensive fitness app with structured workout modules
-- 7-day full-body workout programs with timer, rep counting, and visual demonstrations
-- **10,000+ downloads** on Google Play Store
-- **Tech:** Flutter, Dart, Bloc, SQLite, UI/UX Design
-- [📱 Download from Play Store](https://play.google.com/store/apps/details?id=com.homeworkout.body.fitvategain)
+</div>
 
 ---
 
-## 💼 Professional Experience
+<div align="center">
 
-### 🔧 **Software Engineer** | OkraSoft Pakistan *(Dec 2023 - Sep 2024)*
-- Developed AI-integrated salesman app for field operations
-- Enhanced apps with GPS tracking, stock management, and AI-based report generation
-- Worked on multiple apps with **10K+ downloads** including fitness and budget planner apps
-- **Tech:** Flutter, Dart, Bloc, GetX, Provider, OpenAI API, Machine Learning
+## 🔥 **FEATURED PROJECTS**
 
-### 🎨 **Junior Frontend Developer** | QK Creators Pakistan *(Aug 2023 - Dec 2023)*
-- Built responsive enterprise interfaces and client portals
-- Developed QKCREATORS Client Portal and Sensorra Jewelry Dashboard
-- Created custom WordPress components
-- **Tech:** React, JavaScript, Bootstrap, SASS, WordPress, HTML/CSS
+</div>
 
----
+<table align="center">
+<tr>
+<td width="50%" align="center">
 
-## 📱 Published Mobile Applications
+### 🧠 **[NeuroInsight](https://github.com/UsmanK7/Neuro-Insight)**
+![AI](https://img.shields.io/badge/AI-Medical%20Diagnosis-red?style=for-the-badge&logo=brain&logoColor=white)
 
-### Apps with 10K+ Downloads:
-1. **[Home Workout for Men's Fitness](https://play.google.com/store/apps/details?id=com.homeworkout.body.fitvategain)** - 10K+ downloads
-2. **Budget Planner App** - 10K+ downloads (developed at OkraSoft)
-3. **Salesman Field Operations App** - 10K+ downloads (developed at OkraSoft)
+**AI Brain Cancer Detection**
+```
+Accuracy: 98.66% 🎯
+Technology: Deep Learning
+Impact: Medical Innovation
+```
+[![View](https://img.shields.io/badge/VIEW%20PROJECT-00D4AA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UsmanK7/Neuro-Insight)
 
----
+</td>
+<td width="50%" align="center">
 
-## 🛠️ Technical Skills
+### 💪 **[Fitness App](https://play.google.com/store/apps/details?id=com.homeworkout.body.fitvategain)**
+![Downloads](https://img.shields.io/badge/DOWNLOADS-10K+-success?style=for-the-badge&logo=googleplay&logoColor=white)
 
-**Languages:** Python, Dart, JavaScript, C++, Assembly Language  
-**AI/ML:** TensorFlow, Keras, Scikit-learn, OpenCV, NumPy, Matplotlib  
-**Mobile Development:** Flutter, Bloc, GetX, Provider  
-**Web Development:** Django, React, Bootstrap, HTML/CSS, WordPress  
-**Databases:** SQLite, SQL  
-**Tools:** Git, GitHub, Figma, API Integration  
+**Published Mobile App**
+```
+Downloads: 10,000+ 📱
+Platform: Android
+Rating: ⭐⭐⭐⭐⭐
+```
+[![Download](https://img.shields.io/badge/DOWNLOAD%20APP-FF6B35?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.homeworkout.body.fitvategain)
 
----
-
-## 🎯 Academic Projects
-
-### 🎮 [Assembly Language Tic-Tac-Toe Game](https://github.com/UsmanK7/assembly-tictactoe)
-Two-player functionality built in Assembly Language
-
-### 🏧 [OOP-based ATM Machine](https://github.com/UsmanK7/atm-machine-oop)
-Object-Oriented Programming concepts implementation
-
-### 🦠 [COVID-19 Tracker App](https://github.com/UsmanK7/covid-tracker)
-Real-time data visualization and statistics
-
-### 💰 [Expense Tracker & Budget Planner](https://github.com/UsmanK7/expense_tracker_budget)
-Flutter app with SQLite database integration
-
-### ❓ [Quiz App](https://github.com/UsmanK7/quiz_app_flutter)
-Flutter-based quiz application with shared preferences
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Achievements & Certifications
+<div align="center">
 
-### 🥇 **Awards**
-- **Speed Programming Champion** - Next Vaganiza 2024, University of Mianwali (1st Place)
-- [🏆 Certificate](https://raw.githubusercontent.com/UsmanK7/UsmanK7/refs/heads/main/coding_competition_win_certifcate.jpg)
+## ⚡ **TECH STACK**
 
-### 📜 **Certifications**
-- [**Google Advanced Data Analytics**](https://www.coursera.org/account/accomplishments/specialization/3RWO1A39NPL6) - Professional Level
-- [**GitHub Foundations**](https://www.credly.com/badges/70d00156-80b2-4952-914c-9d2d18a99eef/public_url) - Proctored Exam
+</div>
 
----
+<div align="center">
 
-## 📊 GitHub Stats
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsmanK7&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanK7&layout=compact&theme=radical)
+</div>
 
 ---
 
-## 🤝 Let's Connect!
+<div align="center">
 
-[<img target="_blank" alt="Muhammad Usman Khan | Gmail" width="120px" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
-[<img target="_blank" alt="Muhammad Usman Khan | LinkedIn" width="140px" height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img target="_blank" alt="LeetCode" width="140px" height="40" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />][leetcode]
+## 📊 **GITHUB STATS**
 
-[mail]: mailto:musmankhan707@gmail.com
-[linkedin]: https://www.linkedin.com/in/usman-ai
-[leetcode]: https://leetcode.com/u/usmank7/
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=UsmanK7&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanK7&theme=radical&hide_border=true" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanK7&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+
+</div>
 
 ---
 
-💡 **Currently Learning:** Backend Development  
-🤝 **Open to:** Collaboration on Open Source projects and innovative AI solutions  
-🎯 **Goal:** Contributing to cutting-edge technology that makes a positive impact
+<div align="center">
 
-⭐ **Feel free to explore my repositories and don't forget to star the ones you find interesting!**
+## 🏆 **ACHIEVEMENTS**
+
+| 🎯 **Achievement** | 📊 **Details** |
+|:---:|:---:|
+| 🥇 **Speed Programming Champion** | Next Vaganiza 2024 |
+| 📱 **Published Apps** | 10K+ Downloads |
+| 🎯 **AI Model Accuracy** | 98.66% |
+| 📜 **Google Certified** | Advanced Data Analytics |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 **QUICK PROJECTS**
+
+</div>
+
+<div align="center">
+
+[![Bone Fracture AI](https://github-readme-stats.vercel.app/api/pin/?username=UsmanK7&repo=Bone-fracture-detection&theme=radical&hide_border=true)](https://github.com/UsmanK7/Bone-fracture-detection)
+[![Expense Tracker](https://github-readme-stats.vercel.app/api/pin/?username=UsmanK7&repo=expense_tracker_budget&theme=radical&hide_border=true)](https://github.com/UsmanK7/expense_tracker_budget)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 **LET'S CONNECT**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usman-ai)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musmankhan707@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/usmank7/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UsmanK7)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 **Currently building AI solutions that matter**
+*Open for collaborations • Always learning • Let's innovate together!*
+
+![Profile Views](https://komarev.com/ghpvc/?username=UsmanK7&style=for-the-badge&color=brightgreen)
+
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
+
+</div>
