@@ -19,13 +19,13 @@
   - [UCI Heart Disease Prediction using ML Models](https://github.com/UsmanK7/Cardio-Predict)
   - [Bone Fracture Detection with Deep Learning – Stanford MURA Dataset](https://github.com/UsmanK7/Brain-fracture-detection)
 
-- <b>Mobile Apps</b>
+- <b>Mobile Apps - Flutter</b>
   - [Home Workout Fitness App (10K+ Downloads on Play Store)](https://play.google.com/store/apps/details?id=com.homeworkout.body.fitvategain)
   - [Expense Tracker & Budget Planner – Flutter + SQLite](https://github.com/UsmanK7/expense_tracker_budget)
   - [Quiz App using Flutter + SharedPreferences](https://github.com/UsmanK7/quiz_app_flutter)
   - [COVID Tracker App with Real-Time Data Visualization (Academic)](https://github.com/UsmanK7/Covid_Tracker) <!-- Create repo if missing -->
 
-- <b>Desktop / Console Applications</b>
+- <b>OOP and Assembly language </b>
   - [ATM Machine – OOP Based Project in Java](https://github.com/UsmanK7/ATM-Machine) <!-- Create repo if missing -->
   - [Tic Tac Toe in Assembly Language – 2 Player](https://github.com/UsmanK7/TicTacToe-Assembly) <!-- Create repo if missing -->
 
