@@ -16,17 +16,19 @@
 
 - <b>Bacehlors Final Year project</b>
   - [Final Year Project: NeuroInsight –End-to-End project for Neuroimaging Analysis](https://github.com/UsmanK7/Neuro-Insight)
-<b>Natural language processing</b>
+    
+- <b>Natural language processing</b>
   - [NLP Legal Assist](https://github.com/UsmanK7/NLP-LegalAssist)
 
 
-- <b>Signal processing with python</b>
-  - [AI Channel Quality Prediction for 5G and Beyond Wireless Networks](https://github.com/UsmanK7/AI-channel-quality-prediction)
- 
+
 - <b>Computer vision and Medical Imaging</b>
   - [Final Year Project: NeuroInsight –End-to-End project for Neuroimaging Analysis](https://github.com/UsmanK7/Neuro-Insight)
   - [Bone Fracture Detection with Deep Learning – Stanford MURA Dataset](https://github.com/UsmanK7/Brain-fracture-detection)
 
+- <b>Signal processing with python</b>
+  - [AI Channel Quality Prediction for 5G and Beyond Wireless Networks](https://github.com/UsmanK7/AI-channel-quality-prediction)
+ 
 - <b>Mobile Apps - Flutter</b>
   - [Home Workout Fitness App (10K+ Downloads on Play Store)](https://play.google.com/store/apps/details?id=com.homeworkout.body.fitvategain)
   - [Expense Tracker & Budget Planner – Flutter + SQLite](https://github.com/UsmanK7/expense_tracker_budget)
