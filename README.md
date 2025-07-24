@@ -16,6 +16,9 @@
 
 - <b>Bacehlors Final Year project</b>
   - [Final Year Project: NeuroInsight –End-to-End project for Neuroimaging Analysis](https://github.com/UsmanK7/Neuro-Insight)
+<b>Natural language processing</b>
+  - [NLP Legal Assist](https://github.com/UsmanK7/NLP-LegalAssist)
+
 
 - <b>Signal processing with python</b>
   - [AI Channel Quality Prediction for 5G and Beyond Wireless Networks](https://github.com/UsmanK7/AI-channel-quality-prediction)
